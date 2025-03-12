@@ -1,0 +1,25 @@
+.inputmargin {
+  margin-top: 33px;
+}
+.inputwidth {
+  width: 150%;
+}
+.RegisterButton {
+  background-color: rgba(86, 144, 92, 1);
+  outline: none;
+  border-radius: 6px;
+  border: none;
+  color: white;
+  margin-bottom: 2%;
+}
+.cancelbutton {
+  background-color: rgb(255, 255, 255);
+  border-radius: 6px;
+  margin-left: 2%;
+  border-color: black;
+}
+.ListernerRegister_page{
+  background-image: url('../../Assest/Group\ 2151.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}

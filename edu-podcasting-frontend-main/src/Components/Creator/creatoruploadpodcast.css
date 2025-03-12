@@ -1,0 +1,52 @@
+.podcast_upload {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 4% 0%;
+}
+#podcast_Name {
+  background-color: rgba(67, 67, 67, 1);
+  border: none;
+  margin: 3% 0%;
+  color: white;
+
+}
+#Creator_Name {
+  background-color: rgba(67, 67, 67, 1);
+  border: none;
+  margin: 3% 0%;
+  
+
+}
+#description {
+  background-color: rgba(67, 67, 67, 1);
+  padding: 5%;
+  border: none;
+  margin: 3% 0%;
+  color: white;
+
+}
+#Creator_Name ::placeholder{
+  color: aliceblue;
+}
+#coverimg {
+  background-color: rgba(67, 67, 67, 1);
+  padding: 13%;
+  border: none;
+  margin: 3% 0%;
+  color: white;
+
+
+}
+#audiofile {
+  background-color: rgba(67, 67, 67, 1);
+  padding: 13%;
+  border: none;
+  margin: 3% 0%;
+  color: white;
+
+
+}
+#newepisodeid{
+    background-color: hsl(126, 25%, 45%);
+    color: white;
+}

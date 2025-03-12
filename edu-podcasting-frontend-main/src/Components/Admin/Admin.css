@@ -1,0 +1,41 @@
+.Adminloginbtn {
+    background-color: hsl(126, 25%, 45%);
+    outline: none;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    padding: 1% 3%;
+  }
+  .AdminHomebody{
+    padding-top: 10%;
+  }
+.AdminHomebodyheading{
+    color:  hsl(126, 25%, 45%);
+    font-size: 45px;
+    font-weight: bolder;
+}
+.AdminHomebodyheading span{
+    color: rgba(30, 30, 30, 1)
+}
+.AdminHomebodyparagraph{
+    color: rgba(30, 30, 30, 1);
+    font-size: large;
+    margin-bottom: 5%;
+}
+.sidebar{
+  margin-top: 10%;
+  margin-left: 2%;
+}
+.sidebarelements{
+  padding: 1%;
+  width:4%;
+  border-radius: 6PX;
+  margin: 1%;
+}
+.sidebarelements:hover{
+  background-color: #292929;
+  color: aliceblue;
+}
+.topimg{
+  width: 100%;
+}

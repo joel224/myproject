@@ -1,0 +1,20 @@
+.backgroundimg{
+    background-image: url('../../Assest/Group\ 2151.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 15%;
+  }
+  #inputtransparent{
+    background-color: transparent;
+    border-color: rgb(107, 103, 103);
+    color: black;
+  }
+ img .profileimg{
+ width: 2%;
+  }
+  .creatorforgot_main{
+    background-image: url('../../Assest/Slice\ 2.png');
+    height: 100vh;
+  }
+
+ 

@@ -1,0 +1,11 @@
+.landingpage_links{
+    margin-right: 5%;
+    color: #000;
+}
+.landingpage_links :hover{
+    color:rgba(118, 163, 123, 1);
+}
+.listenerforgot_main{
+    background-image: url('../../Assest/Slice\ 2.png');
+    height: 100vh;
+}

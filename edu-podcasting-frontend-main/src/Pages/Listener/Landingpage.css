@@ -1,0 +1,26 @@
+.landingpage_img {
+  width: 100%;
+  height: 100vh;
+}
+.landingpage_heading {
+  margin-top: 10%;
+  color: hsl(126, 25%, 45%);
+  font-weight: bolder;
+}
+.seelatestpodcast {
+  outline: none;
+  border: none;
+  background-color: hsl(126, 25%, 45%);
+  padding: 1% 5%;
+  border-radius: 26px;
+  color: rgb(255, 255, 255);
+  margin-left: 30%;
+}
+#podcastcard {
+  height: 60vh;
+  margin: 1%;
+}
+.carddisiegn {
+  display: flex;
+  flex-direction: row;
+}

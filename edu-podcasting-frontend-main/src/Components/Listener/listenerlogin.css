@@ -1,0 +1,35 @@
+.listenerlogin_main {
+  background-image: url("../../Assest/Slice\ 1\ \(2\).png");
+  height: 500px;
+  width: 98%;
+}
+.listenerlogin_form {
+  padding: 5% 24%;
+}
+.listenerloginbtn {
+  width: 100%;
+  background-color: rgba(86, 144, 92, 1);
+  outline: none;
+  border-radius: 6px;
+  border: none;
+  color: white;
+}
+.listenercancelbtn {
+  width: 100%;
+  background-color: rgba(234, 234, 234, 1);
+  outline: none;
+  border-radius: 6px;
+  border: none;
+}
+.listener_forgot-password{
+    float: right;
+    margin: 2% 0;
+}
+
+#refreshbutton{
+ float: right;
+ margin-top: -25px;
+}
+#alertuser{
+  color: red;
+}

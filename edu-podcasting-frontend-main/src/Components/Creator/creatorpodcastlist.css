@@ -1,0 +1,35 @@
+.podcast_list_main{
+    padding: 0;
+    color:white;
+    margin: 1%;
+}
+.podcast_list_main img{
+   
+}
+.podcastlist_card_img{
+    width: 100%;
+    height:145px
+}
+img{
+    height:300px;
+}
+
+#podcastlist_card{
+    padding: 0;
+    color:white;
+    width:17%;
+    margin:1%
+}
+.podcastlist_card_content{
+    padding: 5%;
+    /* margin-top: 130%; */
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%);
+}
+.episodebtn{
+    background-color: rgba(86, 144, 92, 1);
+    outline: none;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    margin-bottom: 2%;
+}

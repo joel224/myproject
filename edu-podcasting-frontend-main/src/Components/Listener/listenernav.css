@@ -1,0 +1,15 @@
+.circular-img {
+    position: relative;
+    width: 50px; 
+    height: 50px;
+    border-radius: 50%;
+  }
+  
+  .circular-img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+  }
+  .footerimg{
+    height: 100px;
+  }

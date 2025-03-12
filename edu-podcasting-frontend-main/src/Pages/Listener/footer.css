@@ -1,0 +1,19 @@
+
+.footer_body{
+    background-color:rgba(30, 30, 30, 1);
+    padding: 4%;
+}
+.footerhead{
+    color: rgb(255, 255, 255);
+   padding-bottom: 15%;
+   
+}
+.footer_body{
+    color: rgba(156, 156, 156, 1);
+}
+.footerbody{
+    font-size:150%;
+}
+.footerimg{
+    height: 100px;
+}
